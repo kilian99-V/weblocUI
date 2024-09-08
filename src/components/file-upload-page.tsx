@@ -36,7 +36,7 @@ export function FileUploadPage() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-between p-8 bg-gray-100">
-      <h1 className="text-3xl font-bold mb-8">File Upload Center</h1>
+      <h1 className="text-3xl font-bold mb-8">Webloc Opener</h1>
       
       <div 
         {...getRootProps()} 
